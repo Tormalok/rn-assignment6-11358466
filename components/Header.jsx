@@ -23,6 +23,7 @@ const Header = () => {
 const styles = StyleSheet.create({
   header: {
     padding: 15,
+    marginTop: 23,
     paddingHorizontal: 8,
     height: 60,
     width: '100%',
